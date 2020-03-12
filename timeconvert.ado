@@ -91,15 +91,6 @@ return local loczone =  `loczone'
 *##e
 
 
-*----------2.1:
-
-
-*----------2.2:
-
-
-
-
-
 end
 exit
 /* End of do-file */
