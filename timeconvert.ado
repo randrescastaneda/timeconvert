@@ -66,7 +66,7 @@ local loc_hrf: disp %tcDDmonCCYY_HH:MM:SS `loc_srf'
 //  Display results
 //========================================================
 
-disp  as text _col(3) "  Zone Time " _col(18) as input "{c |}" _col(21) as text "Date-time" _n /* 
+disp  as text _col(3) "  Time Zone " _col(18) as input "{c |}" _col(21) as text "Date-time" _n /* 
  */ as input _col(3) "{hline 15}{c +}{hline 20}"  _n /* 
  */ as text  _col(3) "London zone"  _col(18) as input "{c |}" _col(21) as text "`ref_hrf'" _n /* 
  */ as text  _col(3) "Local  zone"  _col(18) as input "{c |}" _col(21) as text "`loc_hrf'" _n /* 
