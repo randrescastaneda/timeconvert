@@ -1,7 +1,10 @@
 /*==================================================
 project:       convert time to different timezones
 Author:        R.Andres Castaneda 
-E-email:       acastanedaa@worldbank.org
+               JP azevedo
+               
+E-email:       acastanedaa@worldbank.org 
+               jazevedo@worldbank.org
 url:           
 Dependencies:  The World Bank
 ----------------------------------------------------
